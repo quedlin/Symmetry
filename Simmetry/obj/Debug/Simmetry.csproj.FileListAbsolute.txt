@@ -1,0 +1,9 @@
+D:\Projects\visual studio 2010\Projects\Simmetry\Simmetry\bin\Debug\Simmetry.exe.config
+D:\Projects\visual studio 2010\Projects\Simmetry\Simmetry\bin\Debug\Simmetry.exe
+D:\Projects\visual studio 2010\Projects\Simmetry\Simmetry\bin\Debug\Simmetry.pdb
+D:\Projects\visual studio 2010\Projects\Simmetry\Simmetry\obj\Debug\Simmetry.csprojResolveAssemblyReference.cache
+D:\Projects\visual studio 2010\Projects\Simmetry\Simmetry\obj\Debug\Simmetry.Form1.resources
+D:\Projects\visual studio 2010\Projects\Simmetry\Simmetry\obj\Debug\Simmetry.Properties.Resources.resources
+D:\Projects\visual studio 2010\Projects\Simmetry\Simmetry\obj\Debug\Simmetry.csproj.GenerateResource.Cache
+D:\Projects\visual studio 2010\Projects\Simmetry\Simmetry\obj\Debug\Simmetry.exe
+D:\Projects\visual studio 2010\Projects\Simmetry\Simmetry\obj\Debug\Simmetry.pdb
